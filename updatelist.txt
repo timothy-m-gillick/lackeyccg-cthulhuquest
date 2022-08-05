@@ -1,0 +1,5 @@
+CthulhuQuest	08-03-22
+plugins/CthulhuQuest/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-cthulhuquest/raw/main/plugininfo.txt	178744
+plugins/CthulhuQuest/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-cthulhuquest/raw/main/cardback.jpg	640085
+CardGeneralURLs:		
+https://drive.google.com/drive/folders/1WNaJUM8edqaOCVm9lbRU86CMccohIL-n?usp=sharing
